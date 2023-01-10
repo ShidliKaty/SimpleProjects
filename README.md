@@ -7,3 +7,4 @@
 **7 - [Split Landing Page](https://shidlikaty.github.io/SimpleProjects/7%20-%20Split%20Landing%20Page/)**
 **8 - [Form Wave Animation](https://shidlikaty.github.io/SimpleProjects/8%20-%20Form%20Wave%20Animation/)**
 **9 - [Sound Board](https://shidlikaty.github.io/SimpleProjects/9%20-%20Sound%20Board/)**
+**10 - [Dad Jokes](https://shidlikaty.github.io/SimpleProjects/10%20-%20Dad%20Jokes/)**
