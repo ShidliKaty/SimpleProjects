@@ -5,3 +5,4 @@
 **5 - [Blurry Loading](https://shidlikaty.github.io/SimpleProjects/5%20-%20Blurry%20Loading/)**
 **6 - [Scroll Animation](https://shidlikaty.github.io/SimpleProjects/6%20-%20Scroll%20Animation/)**
 **7 - [Split Landing Page](https://shidlikaty.github.io/SimpleProjects/7%20-%20Split%20Landing%20Page/)**
+**8 - [Form Wave Animation](https://shidlikaty.github.io/SimpleProjects/8%20-%20Form%20Wave%20Animation/)**
