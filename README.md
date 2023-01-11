@@ -9,3 +9,4 @@
 **09 - [Sound Board](https://shidlikaty.github.io/SimpleProjects/09%20-%20Sound%20Board/)**
 **10 - [Dad Jokes](https://shidlikaty.github.io/SimpleProjects/10%20-%20Dad%20Jokes/)**
 **11 - [Event KeyCodes](https://shidlikaty.github.io/SimpleProjects/11%20-%20Event%20KeyCodes/)**
+**12 - [FAQ Collapse](https://shidlikaty.github.io/SimpleProjects/12%20-%20FAQ%20Collapse/)**
