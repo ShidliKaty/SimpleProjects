@@ -11,3 +11,4 @@
 **11 - [Event KeyCodes](https://shidlikaty.github.io/SimpleProjects/11%20-%20Event%20KeyCodes/)**
 **12 - [FAQ Collapse](https://shidlikaty.github.io/SimpleProjects/12%20-%20FAQ%20Collapse/)**
 **13 - [Random Choice Picker](https://shidlikaty.github.io/SimpleProjects/13%20-%20Random%20Choice%20Picker/)**
+**14 - [Animated Navigation](https://shidlikaty.github.io/SimpleProjects/14%20-%20Animated%20Navigation/)**
