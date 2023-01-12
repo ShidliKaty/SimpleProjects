@@ -27,3 +27,5 @@
 **14 - [Animated Navigation](https://shidlikaty.github.io/SimpleProjects/14%20-%20Animated%20Navigation/)**
 
 **15 - [Incrementing Counter](https://shidlikaty.github.io/SimpleProjects/15%20-%20Incrementing%20Counter/)**
+
+**16 - [Drink Water](https://shidlikaty.github.io/SimpleProjects/16%20-%20Drink%20Water/)**
