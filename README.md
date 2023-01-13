@@ -31,3 +31,5 @@
 **16 - [Drink Water](https://shidlikaty.github.io/SimpleProjects/16%20-%20Drink%20Water/)**
 
 **17 - [Movie App](https://shidlikaty.github.io/SimpleProjects/17%20-%20Movie%20App/)**
+
+**17 - [Background Slider](https://shidlikaty.github.io/SimpleProjects/18%20-%20Background%20Slider/)**
