@@ -33,3 +33,5 @@
 **17 - [Movie App](https://shidlikaty.github.io/SimpleProjects/17%20-%20Movie%20App/)**
 
 **18 - [Background Slider](https://shidlikaty.github.io/SimpleProjects/18%20-%20Background%20Slider/)**
+
+**19 - [Theme Clock](https://shidlikaty.github.io/SimpleProjects/19%20-%20Theme%20Clock/)**
