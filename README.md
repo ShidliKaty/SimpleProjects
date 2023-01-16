@@ -32,4 +32,4 @@
 
 **17 - [Movie App](https://shidlikaty.github.io/SimpleProjects/17%20-%20Movie%20App/)**
 
-**17 - [Background Slider](https://shidlikaty.github.io/SimpleProjects/18%20-%20Background%20Slider/)**
+**18 - [Background Slider](https://shidlikaty.github.io/SimpleProjects/18%20-%20Background%20Slider/)**
