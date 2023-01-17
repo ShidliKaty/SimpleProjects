@@ -43,3 +43,5 @@
 **22 - [Drawing App](https://shidlikaty.github.io/SimpleProjects/22%20-%20Drawing%20App/)**
 
 **23 - [Kinetic Loader](https://shidlikaty.github.io/SimpleProjects/23%20-%20Kinetic%20CSS%20Loader/)**
+
+**24 - [Content Placeholder](https://shidlikaty.github.io/SimpleProjects/24%20-%20Content%20Placeholder/)**
