@@ -41,3 +41,5 @@
 **21 - [Drag N Drop](https://shidlikaty.github.io/SimpleProjects/21%20-%20Drag%20N%20Drop/)**
 
 **22 - [Drawing App](https://shidlikaty.github.io/SimpleProjects/22%20-%20Drawing%20App/)**
+
+**23 - [Kinetic Loader](https://shidlikaty.github.io/SimpleProjects/23%20-%20Kinetic%20CSS%20Loader/)**
