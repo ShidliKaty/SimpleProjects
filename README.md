@@ -45,3 +45,5 @@
 **23 - [Kinetic Loader](https://shidlikaty.github.io/SimpleProjects/23%20-%20Kinetic%20CSS%20Loader/)**
 
 **24 - [Content Placeholder](https://shidlikaty.github.io/SimpleProjects/24%20-%20Content%20Placeholder/)**
+
+**25 - [Sticky Navigation](https://shidlikaty.github.io/SimpleProjects/25%20-%20Sticky%20Navbar/)**
