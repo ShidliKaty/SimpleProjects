@@ -47,3 +47,5 @@
 **24 - [Content Placeholder](https://shidlikaty.github.io/SimpleProjects/24%20-%20Content%20Placeholder/)**
 
 **25 - [Sticky Navigation](https://shidlikaty.github.io/SimpleProjects/25%20-%20Sticky%20Navbar/)**
+
+**26 - [Vertical Slider](https://shidlikaty.github.io/SimpleProjects/26%20-%20Double%20Vertical%20Slider/)**
