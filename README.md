@@ -51,3 +51,5 @@
 **26 - [Vertical Slider](https://shidlikaty.github.io/SimpleProjects/26%20-%20Double%20Vertical%20Slider/)**
 
 **27 - [Toast Notification](https://shidlikaty.github.io/SimpleProjects/27%20-%20Toast%20Notification/)**
+
+**28 - [Github Profles](https://shidlikaty.github.io/SimpleProjects/28%20-%20Github%20Profiles/)**
