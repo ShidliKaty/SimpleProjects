@@ -57,3 +57,5 @@
 **29 - [Double Heart Click](https://shidlikaty.github.io/SimpleProjects/29%20-%20Double%20Heart%20Click/)**
 
 **30 - [Auto Text Effect](https://shidlikaty.github.io/SimpleProjects/30%20-%20Auto%20Text%20Effect/)**
+
+**31 - [Password Generator](https://shidlikaty.github.io/SimpleProjects/31%20-%20Password%20Generator/)**
