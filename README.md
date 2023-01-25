@@ -59,3 +59,5 @@
 **30 - [Auto Text Effect](https://shidlikaty.github.io/SimpleProjects/30%20-%20Auto%20Text%20Effect/)**
 
 **31 - [Password Generator](https://shidlikaty.github.io/SimpleProjects/31%20-%20Password%20Generator/)**
+
+**32 - [Good Cheap Fast Checkboxes](https://shidlikaty.github.io/SimpleProjects/32%20-%20Good%20Cheap%20Fast%20Checkboxes/)**
