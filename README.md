@@ -65,3 +65,5 @@
 **33 - [Notes App](https://shidlikaty.github.io/SimpleProjects/33%20-%20Notes%20App/)**
 
 **34 - [Animated Countdown](https://shidlikaty.github.io/SimpleProjects/34%20-%20Animated%20Countdown/)**
+
+**35 - [Image Carousel](https://shidlikaty.github.io/SimpleProjects/35%20-%20Image%20Carousel/)**
