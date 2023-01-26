@@ -63,3 +63,5 @@
 **32 - [Good Cheap Fast Checkboxes](https://shidlikaty.github.io/SimpleProjects/32%20-%20Good%20Cheap%20Fast%20Checkboxes/)**
 
 **33 - [Notes App](https://shidlikaty.github.io/SimpleProjects/33%20-%20Notes%20App/)**
+
+**34 - [Animated Countdown](https://shidlikaty.github.io/SimpleProjects/34%20-%20Animated%20Countdown/)**
