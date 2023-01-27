@@ -69,3 +69,5 @@
 **35 - [Image Carousel](https://shidlikaty.github.io/SimpleProjects/35%20-%20Image%20Carousel/)**
 
 **36 - [Hoverboard](https://shidlikaty.github.io/SimpleProjects/36%20-%20Hoverboard/)**
+
+**37 - [Pokedex](https://shidlikaty.github.io/SimpleProjects/37%20-%20Pokedex/)**
