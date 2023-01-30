@@ -72,4 +72,4 @@
 
 **37 - [Pokedex](https://shidlikaty.github.io/SimpleProjects/37%20-%20Pokedex/)**
 
-**38 - [Mobile Tab Navigation](https://shidlikaty.github.io/SimpleProjects38%20-%20Mobile%20Tab%20Navigation/)**
+**38 - [Mobile Tab Navigation](https://shidlikaty.github.io/SimpleProjects/38%20-%20Mobile%20Tab%20Navigation/)**
