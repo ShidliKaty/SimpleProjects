@@ -77,3 +77,5 @@
 **39 - [Password Strength Background](https://shidlikaty.github.io/SimpleProjects/39%20-%20Password%20Strength%20Background/)**
 
 **40 - [3D Background Boxes](https://shidlikaty.github.io/SimpleProjects/40%20-%203D%20Background%20Boxes/)**
+
+**41 - [Verify Account UI](https://shidlikaty.github.io/SimpleProjects/41%20-%20Verify%20Account%20UI)**
