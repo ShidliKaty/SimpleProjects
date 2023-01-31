@@ -79,3 +79,5 @@
 **40 - [3D Background Boxes](https://shidlikaty.github.io/SimpleProjects/40%20-%203D%20Background%20Boxes/)**
 
 **41 - [Verify Account UI](https://shidlikaty.github.io/SimpleProjects/41%20-%20Verify%20Account%20UI/)**
+
+**42 - [Live User Filter](https://shidlikaty.github.io/SimpleProjects/42%20-%20Live%20User%20Filter/)**
