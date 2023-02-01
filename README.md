@@ -87,3 +87,5 @@
 **44 - [Custom Range Slider](https://shidlikaty.github.io/SimpleProjects/44%20-%20Custom%20Range%20Slider/)**
 
 **45 - [Netflix Navigation](https://shidlikaty.github.io/SimpleProjects/45%20-%20Netflix%20Navigation/)**
+
+**46 - [Quiz App](https://shidlikaty.github.io/SimpleProjects/46%20-%20Quiz%20App/)**
