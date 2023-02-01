@@ -83,3 +83,5 @@
 **42 - [Live User Filter](https://shidlikaty.github.io/SimpleProjects/42%20-%20Live%20User%20Filter/)**
 
 **43 - [Feedback UI Design](https://shidlikaty.github.io/SimpleProjects/43%20-%20Feedback%20UI%20Design/)**
+
+**44 - [Custom Range Slider](https://shidlikaty.github.io/SimpleProjects/44%20-%20Custom%20Range%20Slider/)**
