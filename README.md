@@ -93,3 +93,5 @@
 **47 - [Testimonial Box Switcher](https://shidlikaty.github.io/SimpleProjects/47%20-%20Testimonial%20Box%20Switcher/)**
 
 **48 - [Random Image Feed](https://shidlikaty.github.io/SimpleProjects/48%20-%20Random%20Image%20Feed/)**
+
+**49 - [Todo List](https://shidlikaty.github.io/SimpleProjects/49%20-%20Todo%20List/)**
