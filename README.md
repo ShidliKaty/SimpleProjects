@@ -91,3 +91,5 @@
 **46 - [Quiz App](https://shidlikaty.github.io/SimpleProjects/46%20-%20Quiz%20App/)**
 
 **47 - [Testimonial Box Switcher](https://shidlikaty.github.io/SimpleProjects/47%20-%20Testimonial%20Box%20Switcher/)**
+
+**48 - [Random Image Feed](https://shidlikaty.github.io/SimpleProjects/48%20-%20Random%20Image%20Feed/)**
