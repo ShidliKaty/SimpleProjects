@@ -89,3 +89,5 @@
 **45 - [Netflix Navigation](https://shidlikaty.github.io/SimpleProjects/45%20-%20Netflix%20Navigation/)**
 
 **46 - [Quiz App](https://shidlikaty.github.io/SimpleProjects/46%20-%20Quiz%20App/)**
+
+**47 - [Testimonial Box Switcher](https://shidlikaty.github.io/SimpleProjects/47%20-%20Testimonial%20Box%20Switcher/)**
