@@ -95,3 +95,5 @@
 **48 - [Random Image Feed](https://shidlikaty.github.io/SimpleProjects/48%20-%20Random%20Image%20Feed/)**
 
 **49 - [Todo List](https://shidlikaty.github.io/SimpleProjects/49%20-%20Todo%20List/)**
+
+**50 - [Insect Catch Game](https://shidlikaty.github.io/SimpleProjects/50%20-%20Insect%20Catch%20Game/)**
